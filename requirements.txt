@@ -1,0 +1,2 @@
+# Only needed for the optional Screenshot button. The sorter itself uses the standard library.
+Pillow>=10.0
